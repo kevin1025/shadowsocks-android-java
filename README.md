@@ -1,7 +1,5 @@
 # shadowsocks-android-java
 
-Last release: [Download](https://github.com/dawei101/shadowsocks-android-java/releases)
-
 ### 关于 About
 
 本版本为shadowsocks android版的纯java版本
