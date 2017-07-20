@@ -1,5 +1,5 @@
-session_name shadowsocks
-    welcome_info 欢迎使用shadowsocks vpnmore版!
+session_name vter
+    welcome_info 欢迎使用shadowsocks vter版!
     ip 10.8.0.2
     dns 114.114.114.114
     dns 8.8.8.8
